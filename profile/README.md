@@ -1,8 +1,11 @@
-<h1><center>中航智能家居系统文档</center></h1>
+<center>
 
-<center><h2>AICPM: AI Care for Property Management</h2></center>
+<h1 style="font-size:36px; font-weight:bold;">中航智能家居系统</h1>
+<h2 style="font-size:24px; ">AICPM: AI Care for Property Management</h2>
 
-<center><img src='assets/aicpm.png' style="zoom:35%;"></center>
+</center>
+
+<center><img src='assets/aicpm.png' style="zoom:25%;"></center>
 
 ___
 
