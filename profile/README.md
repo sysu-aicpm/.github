@@ -22,3 +22,7 @@ AICPM完全开源，欢迎社区贡献：
 - **项目文档**：
     - [https://sysu-aicpm.github.io/docs/](https://sysu-aicpm.github.io/docs/)
     - [飞书文档](https://sysu-aicpm.feishu.cn/wiki/RMe5w4IUHiw0dkk5QF5cUysrnMe)
+
+## 视频演示
+
+[https://www.bilibili.com/video/BV1ekNCz3Eha/](https://www.bilibili.com/video/BV1ekNCz3Eha/?vd_source=76e66becea59ca515ede537a6dbd275c)
